@@ -1,1 +1,67 @@
-<!DOCTYPE html> <html lang="en"> <head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width, initial-scale=1" /> <title>Test</title> <style>*{margin:0;padding:0;} html,body,#wrapper{width:100%;height:100%;} iframe{border-radius:0 !important;}</style> </head> <body> <div id="wrapper" data-tf-widget="ZgX7OhG6" data-tf-inline-on-mobile data-tf-medium="snippet" ></div> <script src="//embed.typeform.com/next/embed.js"></script> </body> </html>
+<html>
+
+<head>
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
+    <link rel="manifest" href="assets/favicon/site.webmanifest">
+    <title>DiDi - Tarjetas Digitales</title>
+    <meta name="description" content="Invitaciones Digitales: En solo unas horas tienes toda la informacion completa de tu evento, lista para compartir por whatsapp, email o cualquier medio digital">
+    <link rel="stylesheet" href="assets/StyleD.css">
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+
+
+<body>
+    <div class="container">
+        <div class="coin">
+            <div class="face heads">
+                <a href="https://www.instagram.com/didi.tarjetasdigitales/"><img src="assets/didilogofinal-02-C.jpg" class="DidiLogo" alt="DidiLogo"></a>
+            </div>
+            <div class="face tails">
+                <a href="https://www.instagram.com/didi.tarjetasdigitales/"><img src="assets/didilogofinal-02-C.jpg" class="DidiLogo" alt="DidiLogo"></a>
+            </div>
+
+        </div>
+    </div>
+    <div class="texto">
+    </div>
+    <script type="text/javascript">
+    </script>
+
+    <!DOCTYPE html>
+    <html lang="en">
+
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>Test</title>
+        <style>
+            * {
+                margin: 0;
+                padding: 0;
+            }
+            
+            html,
+            body,
+            #wrapper {
+                width: 100%;
+                height: 100%;
+            }
+            
+            iframe {
+                border-radius: 0 !important;
+            }
+        </style>
+    </head>
+
+    <body>
+        <div id="wrapper" data-tf-widget="ZgX7OhG6" data-tf-inline-on-mobile data-tf-medium="snippet"></div>
+        <script src="//embed.typeform.com/next/embed.js"></script>
+    </body>
+
+    </html>
+
+</body>
+
+</html>
