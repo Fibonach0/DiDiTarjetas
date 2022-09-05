@@ -1,4 +1,3 @@
-
 var h = $(window).height(),
     w = $(window).width();
 $(window).resize(function() {
@@ -9,11 +8,11 @@ $(window).resize(function() {
     w = nw;
     let imgURLBG = ''
     if (w < 800) {
-        imgURLBG = '/InvWeb/MicayFer_files/Assets/IMGPARAANDROID.jpg'
+        imgURLBG = '/InvWeb/MicayFer_files/Assets/IMGPARAANDROID.png'
     } else if (w >= 800 && w < 1280) {
-        imgURLBG = '/InvWeb/MicayFer_files/Assets/IMGPARAIPHONE.jpg'
+        imgURLBG = '/InvWeb/MicayFer_files/Assets/IMGPARAIPHONE.png'
     } else {
-        imgURLBG = '/InvWeb/MicayFer_files/Assets/IMGPARAPC.jpg'
+        imgURLBG = '/InvWeb/MicayFer_files/Assets/IMGPARAPC.png'
     }
     // Instagram parallax
     $('.parallax-instagram').parallax({

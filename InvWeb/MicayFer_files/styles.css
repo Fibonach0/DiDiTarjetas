@@ -248,7 +248,7 @@ a:hover {
 
 section.portada {
     height: 100vh;
-    /* background-image: url("/MicayFer_files/Assets/portada3.jpg"); */
+    background-image: url("/InvWeb/MicayFer_files/Assets/IMGPARAPC.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
