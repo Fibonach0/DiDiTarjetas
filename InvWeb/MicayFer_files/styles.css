@@ -236,7 +236,7 @@ Fondo*/
         height: 100vh;
         background-image: url("/InvWeb/MicayFer_files/Assets/IMGPARAPC.png");
         background-repeat: no-repeat 80% 50%;
-        background-attachment: fixed;
+        /* background-attachment: fixed; */
         background-size: cover;
     }
     /* ---------- */
