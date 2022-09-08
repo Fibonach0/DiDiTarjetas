@@ -465,6 +465,12 @@ section.galeria .item-galeria a:hover img {
         margin-bottom: 25px;
     }
     
+    section.combi #rosa {
+        text-align: center;
+        margin-bottom: 25px;
+        color: rgb(212, 112, 112);
+    }
+    
     section.combi p {
         margin-bottom: 20px;
     }
@@ -505,6 +511,7 @@ section.galeria .item-galeria a:hover img {
     section.insta h4 {
         text-align: center;
         margin-bottom: 25px;
+        color: var(--color-primario);
     }
     
     section.insta p {
