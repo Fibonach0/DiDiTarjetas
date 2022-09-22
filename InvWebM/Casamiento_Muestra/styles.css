@@ -715,7 +715,7 @@ section.contacto ul li i {
     background-attachment: fixed;
     background-size: cover;
     padding: 10px;
-    display: flex;
+    /* display: flex; */
     justify-content: center;
     appearance: scroll;
     attachment: scroll;
