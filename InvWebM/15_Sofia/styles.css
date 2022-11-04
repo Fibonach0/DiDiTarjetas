@@ -864,7 +864,7 @@ section.contacto ul li i {
         padding: 13px 78px;
     }
     .btn-alt:hover {
-        color: white;
+        color: var(--color-gris);
         background-color: var(--color-primario);
         border: 1px solid var(--color-gris);
         ;
