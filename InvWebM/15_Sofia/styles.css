@@ -963,11 +963,11 @@ section.contacto ul li i {
         color: white;
         background-color: var(--color-secundario);
         border-radius: 30px;
-        padding: 13px 78px;
+        padding: 13px 98px;
         text-decoration: none;
     }
     .btn2-alt:hover {
-        color: white;
+        color: var(--color-gris);
         background-color: var(--color-primario);
         border: 1px solid var(--color-gris);
         ;
@@ -987,7 +987,7 @@ section.contacto ul li i {
         text-decoration: none;
     }
     .btn-alt:hover {
-        color: white;
+        color: var(--color-gris);
         background-color: var(--color-primario);
         border: 1px solid var(--color-gris);
         ;
