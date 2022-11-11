@@ -284,7 +284,6 @@ section.portada2 {
     height: 100vh;
     background-image: url("../public/img/IMGPARAPC.png");
     background-repeat: no-repeat;
-    /* background-attachment: fixed; */
     background-size: cover;
 }
 
@@ -846,6 +845,13 @@ section.contacto ul li i {
         color: var(--color-gris);
         font-size: 21px;
     }
+    section.portada2 {
+        height: 100vh;
+        background-image: url("../public/img/IMGPARAANDROID.png");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+    }
 }
 
 @media (max-width: 450px) {
@@ -942,22 +948,9 @@ section.contacto ul li i {
         color: var(--color-gris);
         font-size: 18px;
     }
-}
-
-@media (max-width: 800) {
     section.portada2 {
         height: 100vh;
-        background-image: url("../public/img/IMGPARAANDROID.png");
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        background-size: cover;
-    }
-}
-
-@media (min-width: 650) {
-    section.portada2 {
-        height: 100vh;
-        background-image: url("../public/img/IMGPARAPC.png");
+        background-image: url("../public/img/IMGPARAIPHONE.png");
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size: cover;
