@@ -849,7 +849,7 @@ section.contacto ul li i {
         height: 100vh;
         background-image: url("../public/img/IMGPARAANDROID.png");
         background-repeat: no-repeat;
-        background-attachment: fixed;
+        /* background-attachment: fixed; */
         background-size: cover;
     }
 }
@@ -952,7 +952,7 @@ section.contacto ul li i {
         height: 100vh;
         background-image: url("../public/img/IMGPARAIPHONE.png");
         background-repeat: no-repeat;
-        background-attachment: fixed;
+        /* background-attachment: fixed; */
         background-size: cover;
     }
 }
