@@ -975,3 +975,8 @@ section.contacto ul li i {
         background-size: cover;
     }
 }
+
+@font-face {
+    font-family: "Centaur";
+    src: url("https://fontsforyou.com/fonts/c/Centaur.ttf");
+}
