@@ -20,7 +20,7 @@ Fondo*/
         color: var(--color-gris);
         font-size: 26px;
         background-color: var(--color-fondo);
-        background-image: url("asets/FONDO.png");
+        background-image: url("FONDO.png");
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
