@@ -16,10 +16,6 @@ Fondo*/
     }
     
     body {
-        font-family: 'Dosis', 'Lora', serif;
-        color: var(--color-gris);
-        font-size: 26px;
-        background-color: var(--color-fondo);
         background-image: url("FONDO.png");
         background-repeat: no-repeat;
         background-position: center;
@@ -153,12 +149,12 @@ Fondo*/
     /* Medias queries */
     
     @media (max-width: 760px) {
-        body {
+        /* body {
             font-family: 'Dosis', 'Lora', serif;
             color: var(--color-gris);
             font-size: 18px;
             background-color: var(--color-fondo);
-        }
+        } */
         p {
             font-family: 'Dosis', 'Lora', serif;
             color: var(--color-gris);
