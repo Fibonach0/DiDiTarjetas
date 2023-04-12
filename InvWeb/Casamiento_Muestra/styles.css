@@ -16,14 +16,14 @@ Fondo*/
 }
 
 body {
-    font-family: "Microsoft Yi Baiti", 'Montserrat', sans-serif;
+    font-family: 'Dosis', 'Montserrat', sans-serif;
     color: var(--color-gris);
     font-size: 26px;
     background-color: var(--color-fondo);
 }
 
 p {
-    font-family: "Microsoft Yi Baiti", 'Montserrat', sans-serif;
+    font-family: 'Dosis', 'Montserrat', sans-serif;
     color: var(--color-gris);
     font-weight: 300;
     font-size: 26px;
@@ -660,7 +660,7 @@ section.footer {
 section.footer p {
     text-align: center;
     color: var(--color-fondo);
-    font-family: "DK Lemon Yellow Sun" !important;
+    font-family: "Courier New" !important;
     font-weight: 300;
     margin: 0;
     padding: 0;
@@ -753,13 +753,13 @@ section.contacto ul li i {
         margin-top: 10px;
     }
     body {
-        font-family: "Microsoft Yi Baiti", 'Montserrat', sans-serif;
+        font-family: 'Dosis', 'Montserrat', sans-serif;
         color: var(--color-gris);
         font-size: 18px;
         background-color: var(--color-fondo);
     }
     p {
-        font-family: "Microsoft Yi Baiti", 'Montserrat', sans-serif;
+        font-family: 'Dosis', 'Montserrat', sans-serif;
         color: var(--color-gris);
         font-weight: 100;
         font-size: 21px;
@@ -856,13 +856,13 @@ section.contacto ul li i {
 
 @media (max-width: 450px) {
     body {
-        font-family: "Microsoft Yi Baiti", 'Montserrat', sans-serif;
+        font-family: 'Dosis', 'Montserrat', sans-serif;
         color: var(--color-gris);
         font-size: 18px;
         background-color: var(--color-fondo);
     }
     p {
-        font-family: "Microsoft Yi Baiti", 'Montserrat', sans-serif;
+        font-family: 'Dosis', 'Montserrat', sans-serif;
         color: var(--color-gris);
         font-weight: 100;
         font-size: 20px;
