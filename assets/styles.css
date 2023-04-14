@@ -146,6 +146,21 @@ Fondo*/
         color: var(--color-primario);
         font-weight: 500;
     }
+    .footer{
+        margin-top: 100%;
+    }
+    footer{
+        font-family: 'Dosis', 'Lora', 'Dosis', 'Lora', serif;
+        font-size: 20px;
+        color: gray;
+        background-color: var(--color-secundario);
+        padding: 10px 35px;
+        margin-top: 100%;
+        border: 1px solid var(--color-primario);
+        text-transform: uppercase;
+        text-decoration: none;
+        text-align: center;
+    }
     /* Medias queries */
     
     @media (max-width: 760px) {
